@@ -37,7 +37,7 @@ The code for Springy Widget is taken and refactored from (https://github.com/mat
 
 ### Whats implemented
  - Working bottom navigator to show different pages
- - Navigation push/pop to show details page
+ - Navigation push/pop to show details page000
  - Stateless & Stateful Widgets
  - Custom widgets for list items, category items etc.
  
